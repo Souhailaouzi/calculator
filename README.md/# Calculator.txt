@@ -1,2 +1,0 @@
-# Calculator
-This is a calculator project built for managing basic calculations.
